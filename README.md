@@ -1,6 +1,6 @@
 # Six Pack
 
-<-- Group Members: Eduardo Soler, Frankie Schmidlin, Gizelle Alarcon, Jhuwan Raika-Morgan, Jun Park, Lindsay Wang -->
+<-- Group Members: Eduardo Soler, Frankie Schmidlin, Gizelle Alarcon, Jhawan Raika-Morgan, Jun Park, Lindsay Wang -->
 
 
 ## Team Values
