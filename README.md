@@ -2,14 +2,16 @@
 
 <-- Group Members: Eduardo Soler, Frankie Schmidlin, Gizelle Alarcon, Jhawan Raika-Morgan, Jun Park, Lindsay Wang -->
 
-Research the origins of the KanBan board.   
-What does it mean? 
+### Research the origins of the KanBan board.   
+## What does it mean? 
+
 In Japanese, kanban literally translates to "visual signal." For kanban teams, every work item is represented as a separate card on the board. The main purpose of representing work as a card on the kanban board is to allow team members to track the progress of work through its workflow in a highly visual manner.  
   
-Who invented it? 
+## Who invented it? 
+
 T Ohno - The first Kanban system was developed by Taiichi Ohno(Industrial Engineer and Businessman) for Toyota automotive in Japan. It was created as a simple planning system, the aim of which was to control and manage work and inventory at every stage of production optimally. 
  
- What was the alternative model in that industry? 
+ ## What was the alternative model in that industry? 
 Scrum  
 
 ## Team Values
