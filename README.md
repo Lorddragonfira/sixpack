@@ -20,6 +20,7 @@ Scrum
 - [ ] Gizelle: Campaigner
 - [ ] Jhawan: Commander
 - [ ] Lindsay Wang: Entertainer ESFJ-A
+- [ ] Jun Park Logician Personality INTP-A / INTP-T
 
 ## Communication Style (J)udging or (P)erceiving
 Jun - Perceiving 
