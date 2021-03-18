@@ -64,30 +64,24 @@ We agree to meet at time of class, and will meet at any other times we see neces
 
 
 ## Brainstorm Solutions
-1. Remote internet speed and equipment
-- [ ] a
-- [ ] b
-- [ ] c
+
+Remote internet speed and equipment
+- By zipping or compressing files as we send them, 5G, Better video, better cameras for computers. Better internet speeds, more accessible and affordable
+
 
 2. Digital Insdustry conference platforms
-- [ ] a
-- [ ] b
-- [ ] c
+-  More intuitive interface, accessible and customizable, including add-ons, affordable 
 
 3. Deepfake content
-- [ ] a
-- [ ] b
-- [ ] c
+ - We want deepfakes to be transparent and have a blockchain like ownership attached to them, limitations for the use of content or copyrigh
+ 
 
 4. Privacy policies
-- [ ] a
-- [ ] b
-- [ ] c
+ - Encrypt data to ensure moral and ethical use of privacy data is maintained. 
 
 5. Mobile payments
-- [ ] a
-- [ ] b
-- [ ] c
+- A software update and the actual terminal. 
+
 
 
 ## Prepare "Prepare Elevator Pitch"
