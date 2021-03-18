@@ -17,7 +17,7 @@ Scrum
 ## Team Myers briggs answers 
 
 - [ ] Frankie: Consul ESFJ-A
-- [ ] Gizelle: Campaigner
+- [ ] Gizelle: Campaigner ENFP-A / ENFP-T
 - [ ] Jhawan: Commander
 - [ ] Lindsay Wang: Entertainer ESFJ-A
 
