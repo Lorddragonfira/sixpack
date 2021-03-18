@@ -16,7 +16,8 @@ Scrum
 
 ## Team Myers briggs answers 
 
-Frankie: Consul ESFJ-A
+- [ ]Frankie: Consul ESFJ-A
+- 
 - [ ] Gizelle: Campaigner
 
 - [ ] Jhawan: Commander
