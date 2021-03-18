@@ -18,6 +18,7 @@ Scrum
 
 Frankie: Consul ESFJ-A
 - [ ] Gizelle: Campaigner
+- [ ] Jun: Logician Personality INTP-A / INTP-T
 
 ## Team Values
 
