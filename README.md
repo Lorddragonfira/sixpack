@@ -19,6 +19,7 @@ Scrum
 Frankie: Consul ESFJ-A
 - [ ] Gizelle: Campaigner
 
+- [ ] Jhawan: Commander
 ## Team Values
 
 - [ ] Honesty
