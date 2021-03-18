@@ -19,6 +19,8 @@ Scrum
 - [ ] Frankie: Consul ESFJ-A
 - [ ] Gizelle: Campaigner
 - [ ] Jhawan: Commander
+- [ ] Lindsay Wang: Entertainer ESFJ-A
+
 
 ## Team Values
 
