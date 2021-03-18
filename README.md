@@ -14,6 +14,10 @@ T Ohno - The first Kanban system was developed by Taiichi Ohno(Industrial Engine
  ## What was the alternative model in that industry? 
 Scrum  
 
+## Team Myers briggs answers 
+
+Frankie: Consul ESFJ-A 
+
 ## Team Values
 
 - [ ] Honesty
