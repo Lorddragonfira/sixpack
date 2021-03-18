@@ -29,6 +29,28 @@ Frankie: Consul ESFJ-A
 - [ ] Courage
 
 
+## Turn your values into  rules or principles
+
+# Rules
+
+- To take ownership of our work and to always be proud of our achievements and use our mistakes for room for growth. 
+- To take responsility of our actions.
+
+
+# Principles 
+
+- Honesty
+- Trust 
+- Respect 
+
+
+# Document your expectations meeting times for the group 
+
+We agree to meet at time of class, and will meet at any other times we see necessary during our project. 
+
+
+
+
 ## Problem Identification
 1. Remote internet speed and equipment
 2. Digital industry conference platforms
