@@ -12,7 +12,7 @@ In Japanese, kanban literally translates to "visual signal." For kanban teams, e
 T Ohno - The first Kanban system was developed by Taiichi Ohno(Industrial Engineer and Businessman) for Toyota automotive in Japan. It was created as a simple planning system, the aim of which was to control and manage work and inventory at every stage of production optimally. 
  
  ## What was the alternative model in that industry? 
-Scrum  
+Scrumbag  
 
 ## Team Myers briggs answers 
 
