@@ -20,6 +20,7 @@ Scrum
 - [ ] Gizelle: Campaigner
 - [ ] Jhawan: Commander
 - [ ] Lindsay Wang: Entertainer ESFJ-A
+- [ ] Eduardo: Logistician ISTJ-A 
 
 
 ## Team Values
