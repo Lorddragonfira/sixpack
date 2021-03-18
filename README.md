@@ -21,6 +21,8 @@ Scrum
 - [ ] Jhawan: Commander
 - [ ] Lindsay Wang: Entertainer ESFJ-A
 
+## Communication Style (J)udging or (P)erceiving
+Jun - Perceiving 
 
 ## Team Values
 
