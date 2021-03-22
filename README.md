@@ -32,6 +32,7 @@ Scrum
 - [ ] Ownership of your work
 - [ ] Respect
 - [ ] Courage
+- [ ] Team work
 
 
 ## Turn your values into  rules or principles
@@ -40,6 +41,11 @@ Scrum
 
 - To take ownership of our work and to always be proud of our achievements and use our mistakes for room for growth. 
 - To take responsility of our actions.
+- Plenty of respectful communication to value each others boundries.
+- Courage to push boundries and take risks.
+- Trust that your ideas will be respected by others so always putting them forward.
+- Trusting other peoples ideas and processes.  
+- Supporting one another and not isolating any team member.
 
 
 # Principles 
