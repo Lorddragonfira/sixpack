@@ -39,7 +39,7 @@ Scrum
 
 # Rules
 
-- To take ownership of our work and to always be proud of our achievements and use our mistakes for room for growth. 
+- To take ownership of our work and to always be proud of our achievements and use our mistakes for room for growth 
 - To take responsility of our actions.
 - Plenty of respectful communication to value each others boundries.
 - Courage to push boundries and take risks.
@@ -61,13 +61,22 @@ We agree to meet at time of class, and will meet at any other times we see neces
 
 
 
-
 ## Problem Identification
-1. Remote internet speed and equipment
+1. Remote internet speed and equipment 
+        - People can’t reliably engage/communicate with other recipients without poor connection. 
+        - Wants/needs: We want to have faster reliable internet. 
 2. Digital industry conference platforms
+        - Current Industry platforms (Microsoft Teams) are laggy, out of date, does not have good UI and is just very complicated and excessive. 
+        - Wants/Needs: More intuitive interface, accessible and customizable, including add-ons, affordable. 
 3. Deepfake content
+        - People can’t reliably differentiate the differences between a real video and a deep fake video
+        - Wants/Needs: We want deepfakes to be transparent and have a blockchain like ownership attached to them, limitations for the use of content or copyright. 
 4. Privacy policies
+        - Large corporations are currrently finding loopholes or completely ignoring the privacy policies. 
+        - Wants/Needs: We want to be able to hold corporations accountable for their breach of privacy policies
 5. Mobile payments
+        - Currently unreliable and secruity risks associated with Mobile Payments, along with no real incentives. 
+        - Wants/Needs: We need reliable and trustworthy mobile payment options along with great incentives e.g reward point system.
 
 
 ## Brainstorm Solutions
