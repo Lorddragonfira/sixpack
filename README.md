@@ -1,5 +1,8 @@
 # Six Pack
 
+<img width="462" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/79612729/112404983-451b3380-8d76-11eb-8cb2-f5a5f8720a3e.png">
+
+
 <-- Group Members: Eduardo Soler, Frankie Schmidlin, Gizelle Alarcon, Jhawan Raika-Morgan, Jun Park, Lindsay Wang -->
 
 ### Research the origins of the KanBan board.   
