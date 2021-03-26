@@ -123,7 +123,7 @@ Remote internet speed and equipment
 7. Gaps between health and tech
 - A bed that monitors body vitals and is able to attend to patients according to their health needs and wants. E.g move patients on to their side automatically every 30 minutes   whilist having a clear and fully monitored body vitals and signals.
 
-9. Lacking Home app software
+8. Lacking Home app software
 - A device that allows for the monitoring of a baby when its asleep but also is able to sooth a baby to sleep when its bed time or if they woke up in the middle of a night.
         
 
