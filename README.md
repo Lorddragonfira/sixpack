@@ -126,6 +126,7 @@ Remote internet speed and equipment
 8. Lacking Home app software
 - A device that allows for the monitoring of a baby when its asleep but also is able to sooth a baby to sleep when its bed time or if they woke up in the middle of a night.
         
+![Brainstorm Photo Group Project](https://user-images.githubusercontent.com/79612597/112598295-3ebeb180-8e73-11eb-8487-8937e4796913.jpg)
 
 ## Prepare "Prepare Elevator Pitch"
 ### Internet of Things
