@@ -152,30 +152,27 @@ Remote internet speed and equipment
 
 ## Validate the market
 
-### Questions 
-### 1. Is there any specific concerns you have for your babies health while they are asleep?
+#### Questions 
+- [ ] Is there any specific concerns you have for your babies health while they are asleep?
+- [ ]  Who currently comes to mind as our number one competitor when thinking about our product? 
+- [ ]  What are your biggest problems with current baby monitors?
 
-# 2. Who currently comes to mind as our number one competitor when thinking about our product? 
+#### Answers 
 
-# 3. What are your biggest problems with current baby monitors?
+### Q1 
+- [ ] Yes, Getting tangled in blankets (at an older age) 
+- [ ] Yes, crying and us not hearing  
 
-
-### Answers 
-
-### 1 
-Yes, Getting tangled in blankets (at an older age) 
-Yes, crying and us not hearing  
-
-### 2 
-Lollipop Smart Baby Monitor
-Vtech   
+### Q2 
+- [ ] Lollipop Smart Baby Monitor
+- [ ] Vtech   
 
 ### 3 
-Battery life of parent unit 
-Connection range 
+- [ ] Battery life of parent unit 
+- [ ] Connection range 
 
 ### Anything extra 
-With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play. I know that might not matter but thought I’d say.
+- [ ] With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play. I know that might not matter but thought I’d say.
 
 
 ## Reflect
