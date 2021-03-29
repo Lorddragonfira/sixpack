@@ -101,6 +101,25 @@ Remote internet speed and equipment
 5. Mobile payments
 - A software update and the actual terminal. 
 
+Task 1-5: Documented in GitHub Repository, Microsoft Teams and document attachments
+
+https://github.com/Lorddragonfira/sixpack
+
+Document attachments
+
+•	Brainstorm
+•	Lean Canvas – Smart Cradle
+•	Lean Canvas – Deepfake
+•	Lean Canvas – Mobile Payment
+•	Lean Canvas – Privacy Policy
+•	Lean Canvas – Smart Home
+•	Lean Canvas – Smart Baby Device
+•	Market Evaluation x 5
+•	Smart Baby Storyboard
+•	Smart Baby Script
+•	First video draft
+
+![image](https://user-images.githubusercontent.com/79612991/112879952-596c8100-9126-11eb-9a03-138894bc9f9e.png)
 
 
 ## Prepare "Prepare Elevator Pitch"
