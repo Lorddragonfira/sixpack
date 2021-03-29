@@ -119,7 +119,7 @@ Document attachments
 •	Smart Baby Script
 •	First video draft
 
-![image](https://user-images.githubusercontent.com/79612991/112879952-596c8100-9126-11eb-9a03-138894bc9f9e.png)
+<img width="462" alt="MicrosoftTeams-image (1)" src=https://whitecliffecollege-my.sharepoint.com/personal/gala211_mywhitecliffe_com/Documents/Microsoft%20Teams%20Chat%20Files/03%20Brainstorm.jpeg>
 
 
 ## Prepare "Prepare Elevator Pitch"
