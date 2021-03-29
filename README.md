@@ -167,12 +167,11 @@ Remote internet speed and equipment
 - [ ] Lollipop Smart Baby Monitor
 - [ ] Vtech   
 
-### 3 
+### Q3 
 - [ ] Battery life of parent unit 
 - [ ] Connection range 
 
 ### Anything extra 
-- [ ] With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play. I know that might not matter but thought I’d say.
-
+- [ ] With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play. 
 
 ## Reflect
