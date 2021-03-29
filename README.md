@@ -150,28 +150,65 @@ Problem: Inefficiently run household. Solution to optimise:
 As a group we will mitigate problems in (for example) avoidable infant deaths by creating a software that monitor baby movements in cots during sleep and sending alert signals to parents when required.
 
 
+## Elevator Pitch
+
+### Elevator Pitch Revision 1
+Smart Cradle to monitor, track and train babies.
+
+### Elevator Pitch Revision 2
+Smart baby. A smart device to monitor, track, teach, babies to school aged children. Featuring:
+
+- [ ] Compatible with home hub devices such as Alexa, Google, etc.
+- [ ] Smart phone compatible
+- [ ] High definition 360° camera that can be accessed and moved using phone app
+- Bluetooth compatible speakers
+- Plays white noise
+- Connects to music apps on your phone, such as spotify
+- Reads e-books
+-	E-Learning capabilities
+- [ ] Temperature readings
+- [ ] Humidity readings
+- [ ] Digital communication with the child
+- [ ] Functional lights within the balloon
+- Can be used as a night light
+- Can be used as a grow clock – light-based signals that teaches your child when to stay in bed and when to wake up and get out of bed
+
+
+![image](https://user-images.githubusercontent.com/79612991/112872288-b06d5880-911c-11eb-8177-8dcf1041161a.png)
+
+
+
 ## Validate the market
 
 #### Questions 
 - [ ] Is there any specific concerns you have for your babies health while they are asleep?
-- [ ]  Who currently comes to mind as our number one competitor when thinking about our product? 
-- [ ]  What are your biggest problems with current baby monitors?
+- [ ] Who currently comes to mind as our number one competitor when thinking about our product? 
+- [ ] What are your biggest problems with current baby monitors?
 
 #### Answers 
 
 ### Q1 
 - [ ] Yes, Getting tangled in blankets (at an older age) 
-- [ ] Yes, crying and us not hearing  
+- [ ] Yes, crying and us not hearing
+- [ ] Monitoring baby vitals
+- [ ] Routine (sleep, alarms, grow clock)
 
 ### Q2 
 - [ ] Lollipop Smart Baby Monitor
-- [ ] Vtech   
+- [ ] Vtech
+- [ ] No monopoly in the market. Each baby monitor that I've researched prior to purchase had their strengths and weaknesses
+- [ ] Opting in for a CCTV monitor as functions are similar and compatible to home hub has better connection, longer range, affordability.
 
 ### Q3 
 - [ ] Battery life of parent unit 
-- [ ] Connection range 
+- [ ] Connection range
+- [ ] Camera quality and screen resolution
+- [ ] Does not connect via wi-fi
 
 ### Anything extra 
-- [ ] With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play. 
+- [ ] With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play.
+- [ ] Toddler is unable to talk when white noise function is on
+- [ ] Use extended from baby to toddler/school age range
 
 ## Reflect
+- [ ] Gizelle completed
