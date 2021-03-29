@@ -174,10 +174,6 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 - Can be used as a grow clock – light-based signals that teaches your child when to stay in bed and when to wake up and get out of bed
 
 
-![image](https://user-images.githubusercontent.com/79612991/112872288-b06d5880-911c-11eb-8177-8dcf1041161a.png)
-
-
-
 ## Validate the market
 
 #### Questions 
