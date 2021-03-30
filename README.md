@@ -184,23 +184,44 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 - [ ] Yes, crying and us not hearing
 - [ ] Monitoring baby vitals
 - [ ] Routine (sleep, alarms, grow clock)
+- [ ] Child may try reach the device at night.
+- [ ] May cause too much noise and light for baby to sleep.
+- [ ] Quality of their sleep and how many times they wake up during the night 
+- [ ] Can't hear baby cry during the night
+- [ ] Worried that baby is okay 
 
 ### Q2 Who currently comes to mind as our number one competitor when thinking about our product? 
 - [ ] Lollipop Smart Baby Monitor
 - [ ] Vtech
 - [ ] No monopoly in the market. Each baby monitor that I've researched prior to purchase had their strengths and weaknesses
-- [ ] Opting in for a CCTV monitor as functions are similar and compatible to home hub has better connection, longer range, affordability.
+- [ ] Opting in for a CCTV monitor as functions are similar and compatible to home hub has better connection, longer range, affordability
+- [ ] Vtevh 
+- [ ] Baby factory 
+- [ ] Nature baby
+- [ ] Uniden
+- [ ] Smartcot
 
 ### Q3 What are your biggest problems with current baby monitors?
 - [ ] Battery life of parent unit 
 - [ ] Connection range
 - [ ] Camera quality and screen resolution
 - [ ] Does not connect via wi-fi
+- [ ] Signals may dirupt when too far from bedroom
+- [ ] Settings get too complicated to adjust
+- [ ] Hackers may access the device
+- [ ] Safety of baby monitors/hacking
+- [ ] Loss of signal 
+- [ ] Works like a walky-talky radio 
 
 ### Anything extra 
-- [ ] With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play.
+- [ ] With baby monitors / mobiles. Sleep consultants recommend a boring one so baby’s don’t get distracted as bed is a place for sleep not play
 - [ ] Toddler is unable to talk when white noise function is on
 - [ ] Use extended from baby to toddler/school age range
+- [ ] This device is very versatile and useful 
+- [ ] Would the baby be satisfied enough until todler age 
+- [ ] Ease of control with app on cellphone 
+- [ ] I don't want to have to buy a new cradle for this function 
+- [ ] Cost too much money 
 
 ## Reflect
 - [ ] Gizelle completed
