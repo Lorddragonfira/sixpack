@@ -101,7 +101,7 @@ Remote internet speed and equipment
 5. Mobile payments
 - A software update and the actual terminal. 
 
-<!-- Place Brainstorm image here -->
+<img width="462" alt="MicrosoftTeams-image (1)" src="https://github.com/Lorddragonfira/sixpack/blob/bc104b6c5905796642afd5ec0ee193a07c232ca1/MicrosoftTeams-image.png"> 
 
 
 ## Prepare "Prepare Elevator Pitch"
