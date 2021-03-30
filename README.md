@@ -177,6 +177,18 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 
 ## Validate the market
 
+# Target market/Customers 
+Our target market are new parents or arent upgrade their existing cradle 
+Kindergartens
+Grandparents
+Professional caregivers
+Nannies 
+
+# Early adopters
+Amazon
+Google 
+
+
 #### Questions and Answers 
 
 ### Q1 Is there any specific concerns you have for your babies health while they are asleep?
@@ -222,6 +234,13 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 - [ ] Ease of control with app on cellphone 
 - [ ] I don't want to have to buy a new cradle for this function 
 - [ ] Cost too much money 
+
+## Smart system improvements
+
+Changed unit to an unintrusive and functional design
+Taken into consideration extrra functions such as light functions for learning, bluetooth capabilities and wifi connections 
+Want to create a user friendly and intuitive app  
+
 
 ## Reflect
 - [ ] Gizelle completed
