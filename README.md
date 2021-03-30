@@ -2,6 +2,8 @@
 
 <img width="462" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/79612729/112404983-451b3380-8d76-11eb-8cb2-f5a5f8720a3e.png">
 
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/79612854/112931297-62863e00-9178-11eb-87eb-8d94ee5772aa.png)
+
 
 Group Members: Eduardo Soler, Frankie Schmidlin, Gizelle Alarcon, Jhawan Raika-Morgan, Jun Park, Lindsay Wang
 
