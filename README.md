@@ -177,26 +177,21 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 
 ## Validate the market
 
-#### Questions 
-- [ ] Is there any specific concerns you have for your babies health while they are asleep?
-- [ ] Who currently comes to mind as our number one competitor when thinking about our product? 
-- [ ] What are your biggest problems with current baby monitors?
+#### Questions and Answers 
 
-#### Answers 
-
-### Q1 
+### Q1 Is there any specific concerns you have for your babies health while they are asleep?
 - [ ] Yes, Getting tangled in blankets (at an older age) 
 - [ ] Yes, crying and us not hearing
 - [ ] Monitoring baby vitals
 - [ ] Routine (sleep, alarms, grow clock)
 
-### Q2 
+### Q2 Who currently comes to mind as our number one competitor when thinking about our product? 
 - [ ] Lollipop Smart Baby Monitor
 - [ ] Vtech
 - [ ] No monopoly in the market. Each baby monitor that I've researched prior to purchase had their strengths and weaknesses
 - [ ] Opting in for a CCTV monitor as functions are similar and compatible to home hub has better connection, longer range, affordability.
 
-### Q3 
+### Q3 What are your biggest problems with current baby monitors?
 - [ ] Battery life of parent unit 
 - [ ] Connection range
 - [ ] Camera quality and screen resolution
