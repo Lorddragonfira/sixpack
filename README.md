@@ -24,6 +24,7 @@ Scrum
 - [ ] Jhawan: Commander
 - [ ] Lindsay Wang: Entertainer ESFJ-A
 - [ ] Eduardo: Logistician ISTJ-A
+- [ ] Jun: Logistician ISTJ-A
 
 
 ## Team Values
