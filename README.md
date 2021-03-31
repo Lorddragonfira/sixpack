@@ -178,15 +178,15 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 ## Validate the market
 
 # Target market/Customers 
-Our target market are new parents or arent upgrade their existing cradle 
-Kindergartens
-Grandparents
-Professional caregivers
-Nannies 
+- Our target market are new parents or parents who want to upgrade their existing cradle 
+- Kindergartens
+- Grandparents
+- Professional caregivers
+- Nannies 
 
 # Early adopters
-Amazon
-Google 
+- Amazon
+- Google 
 
 
 #### Questions and Answers 
@@ -237,9 +237,9 @@ Google
 
 ## Smart system improvements
 
-Changed unit to an unintrusive and functional design
-Taken into consideration extrra functions such as light functions for learning, bluetooth capabilities and wifi connections 
-Want to create a user friendly and intuitive app  
+- Changed unit to an unintrusive and functional design
+- Taken into consideration extrra functions such as light functions for learning, bluetooth capabilities and wifi connections 
+- Want to create a user friendly and intuitive app  
 
 
 ## Reflect
