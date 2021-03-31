@@ -177,21 +177,21 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 
 ## Validate the market
 
-# Target market/Customers 
+### Target market/Customers 
 - Our target market are new parents or parents who want to upgrade their existing cradle 
 - Kindergartens
 - Grandparents
 - Professional caregivers
 - Nannies 
 
-# Early adopters
+### Early adopters
 - Amazon
 - Google 
 
 
-#### Questions and Answers 
+## Questions and Answers 
 
-### Q1 Is there any specific concerns you have for your babies health while they are asleep?
+### Q1. Is there any specific concerns you have for your babies health while they are asleep?
 - [ ] Yes, Getting tangled in blankets (at an older age) 
 - [ ] Yes, crying and us not hearing
 - [ ] Monitoring baby vitals
@@ -202,7 +202,7 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 - [ ] Can't hear baby cry during the night
 - [ ] Worried that baby is okay 
 
-### Q2 Who currently comes to mind as our number one competitor when thinking about our product? 
+### Q2. Who currently comes to mind as our number one competitor when thinking about our product? 
 - [ ] Lollipop Smart Baby Monitor
 - [ ] Vtech
 - [ ] No monopoly in the market. Each baby monitor that I've researched prior to purchase had their strengths and weaknesses
@@ -213,7 +213,7 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 - [ ] Uniden
 - [ ] Smartcot
 
-### Q3 What are your biggest problems with current baby monitors?
+### Q3. What are your biggest problems with current baby monitors?
 - [ ] Battery life of parent unit 
 - [ ] Connection range
 - [ ] Camera quality and screen resolution
