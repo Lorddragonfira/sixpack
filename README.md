@@ -270,3 +270,4 @@ Smart baby. A smart device to monitor, track, teach, babies to school aged child
 
 ## Reflect
 - [ ] Gizelle completed
+- [ ] Jhawan Completed
