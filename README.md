@@ -66,40 +66,65 @@ We agree to meet at time of class, and will meet at any other times we see neces
 
 ## Problem Identification
 1. Remote internet speed and equipment 
-        - People can’t reliably engage/communicate with other recipients without poor connection. 
-        - Wants/needs: We want to have faster reliable internet. 
-2. Digital industry conference platforms
-        - Current Industry platforms (Microsoft Teams) are laggy, out of date, does not have good UI and is just very complicated and excessive. 
-        - Wants/Needs: More intuitive interface, accessible and customizable, including add-ons, affordable. 
-3. Deepfake content
-        - People can’t reliably differentiate the differences between a real video and a deep fake video
-        - Wants/Needs: We want deepfakes to be transparent and have a blockchain like ownership attached to them, limitations for the use of content or copyright. 
-4. Privacy policies
-        - Large corporations are currrently finding loopholes or completely ignoring the privacy policies. 
-        - Wants/Needs: We want to be able to hold corporations accountable for their breach of privacy policies
+- People can’t reliably engage/communicate with other recipients without poor connection. 
+- Wants/needs: We want to have faster reliable internet.
+2.Digital industry conference platforms 
+- Current Industry platforms (Microsoft Teams) are laggy, out of date, does not have good UI and is just very complicated and excessive. 
+- Wants/Needs: More intuitive interface, accessible and customizable, including add-ons, affordable.
+3. Deepfake content 
+- People can’t reliably differentiate the differences between a real video and a deep fake video 
+- Wants/Needs: We want deepfakes to be transparent and have a blockchain like ownership attached to them, limitations for the use of content or copyright.
+4. Privacy policies 
+- Large corporations are currrently finding loopholes or completely ignoring the privacy policies.
+- Wants/Needs: We want to be able to hold corporations accountable for their breach of privacy policies
 5. Mobile payments
-        - Currently unreliable and secruity risks associated with Mobile Payments, along with no real incentives. 
-        - Wants/Needs: We need reliable and trustworthy mobile payment options along with great incentives e.g reward point system.
+- Currently unreliable and secruity risks associated with Mobile Payments, along with no real incentives. 
+- Wants/Needs: We need reliable and trustworthy mobile payment options along with great incentives e.g reward point system.
+6. Everyday companion app
+- The apps and software are still not intuitive or very affordable. There is also a lack of range of actual helpful and useful apps and software available in the current market that just gets the job we need done properly and efficiently (E.g all in one language translating/teaching app). 
+- Wants/Needs: We want to have access to a wider variety of apps and software that are efficient at doing what is needed "e.g teaching/translating languages" and is affordable and intuitive to use for the wider public
+7. Gaps between health and tech 
+- Although it is getting better there is still a gap between technology and health. Still too many health problems that cannot be solved through technology. For example they don't have enough viable products to help with cot death and its not secure enough to be trustworthy for parents to use/buy 
+- Wants/Needs: We want to have trustworthy, secure and efficient technology that will better our health and be able to monitor our day to day health routines better and more efficiently.
+8. Lacking Home app software 
+- We can't use just one app/software that is compatible between all hubs e.g Brands are only limited to interacting with the same brands. 
+- Wants/Needs: We want to be able to just use one app/software that can communicate between all our devices in our home or between the hubs
 
 
 ## Brainstorm Solutions
 
 Remote internet speed and equipment
 - By zipping or compressing files as we send them, 5G, Better video, better cameras for computers. Better internet speeds, more accessible and affordable
+- A camera that is detachable and can be attached to any device. It also comes with high quality audio and video capabilities is very affordable to the public.
+- An internet provider that solely focuses on laser fast internet speeds for conferences,gaming, etc.
 
 
 2. Digital Insdustry conference platforms
 -  More intuitive interface, accessible and customizable, including add-ons, affordable 
+-  An online platform like Twitch, but is an avenue for all means and  purposes not just a singular one. Like a streaming/youtube room thats not restricted to just
+   gaming/chatting/working but combines them all. A one stop online streaming platform. 
 
 3. Deepfake content
- - We want deepfakes to be transparent and have a blockchain like ownership attached to them, limitations for the use of content or copyrigh
+ - We want deepfakes to be transparent and have a blockchain like ownership attached to them, limitations for the use of content or copyright
+ - An app/software/service that is able to differentiate deepfake content from real content
  
 
 4. Privacy policies
  - Encrypt data to ensure moral and ethical use of privacy data is maintained. 
+ - A software/app/technology/governing body of people which can monitor private policies and detect breaking of these policies and rules
 
 5. Mobile payments
-- A software update and the actual terminal. 
+- A software update and the actual terminal.
+- An app/software that is trustworthy, secure, intuitive and efficient on all OS systems. Like Apple pay but not just for the IOS.
+
+6. Everyday companion app
+- A language app that is affordable, intuitive and combines all the needs and wants of what you want in a good app. The Facebook or Google of language teaching/translating apps.
+        
+7. Gaps between health and tech
+- A bed that monitors body vitals and is able to attend to patients according to their health needs and wants. E.g move patients on to their side automatically every 30 minutes   whilist having a clear and fully monitored body vitals and signals.
+
+8. Lacking Home app software
+- A device that allows for the monitoring of a baby when its asleep but also is able to sooth a baby to sleep when its bed time or if they woke up in the middle of a night.
 
 <img width="462" alt="MicrosoftTeams-image (1)" src="https://github.com/Lorddragonfira/sixpack/blob/bc104b6c5905796642afd5ec0ee193a07c232ca1/MicrosoftTeams-image.png"> 
 
